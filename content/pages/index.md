@@ -87,7 +87,7 @@ sections:
         type: FeaturedItem
       - title: Isaac Melo tem uma letra " Maravilhosa
         tagline: '2025'
-        subtitle: This is the item subtitle
+        subtitle: Com susa
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
