@@ -26,7 +26,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image 2025-09-29 at 21.15.48-Photoroom.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
