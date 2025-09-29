@@ -66,7 +66,7 @@ sections:
           Isaac Melo esta a fingir que a caixa de tic tac e a caixa de remedios
           dele.
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          A classica brincadeira que crianças faziam ha alguns anos atrais.
         image:
           url: /images/WhatsApp Image 2025-09-29 at 21.23.02.jpeg
           altText: Placeholder Image
