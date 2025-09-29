@@ -62,7 +62,9 @@ sections:
     items:
       - title: Tic Tac e um remedio
         tagline: '2025'
-        subtitle: E
+        subtitle: >-
+          Isaac Melo esta a fingir que a caixa de tic tac e a caixa de remedios
+          dele.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
