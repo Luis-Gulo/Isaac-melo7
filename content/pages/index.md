@@ -91,7 +91,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/WhatsApp Image 2025-09-29 at 21.23.02.jpeg
           altText: Placeholder image
           styles:
             self:
