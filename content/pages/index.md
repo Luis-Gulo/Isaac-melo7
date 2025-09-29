@@ -7,7 +7,7 @@ sections:
       text: Isaac Melo
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: O Adolescente com15 anos que não sabe firtar um ovo.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
