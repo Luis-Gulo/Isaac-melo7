@@ -61,7 +61,7 @@ sections:
     subtitle: Aqui vão alguns momentos de isaac melo
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: '2025'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
