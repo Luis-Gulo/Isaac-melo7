@@ -9,8 +9,11 @@ sections:
       type: TitleBlock
     subtitle: O Adolescente com15 anos que não sabe firtar um ovo.
     text: >+
-      Este site foi criado Inteiramente para servir como uma piada interna então
-      NADA do que estará aqui deve ser levado a serio.
+      Este site foi criado inteiramente como uma piada interna, por isso nada do
+      que aqui estiver deve ser levado a sério.
+
+
+
 
     actions:
       - label: Get started
