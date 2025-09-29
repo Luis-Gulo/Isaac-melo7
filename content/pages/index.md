@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Aqui vão alguns momentos dele
+    subtitle: Aqui vão alguns momentos de isaac melo
     items:
       - title: Feature Item One
         tagline: This is the tagline
