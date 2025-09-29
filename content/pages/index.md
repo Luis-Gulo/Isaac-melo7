@@ -62,7 +62,7 @@ sections:
     items:
       - title: Tic Tac e um remedio
         tagline: '2025'
-        subtitle: This is the item subtitle
+        subtitle: E
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
