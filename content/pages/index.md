@@ -16,7 +16,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Saber Mais sobre ele
         altText: ''
         url: /
         showIcon: false
