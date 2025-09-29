@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: O Adolescente com15 anos que não sabe firtar um ovo.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Este site foi criado Inteiramente para servir como uma piada interna então
+      NADA do que estará aqui deve ser levado a serio.
+
     actions:
       - label: Get started
         altText: ''
