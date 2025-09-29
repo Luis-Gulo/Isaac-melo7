@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Isaac Melo tem uma letra " Maravilhosa
         tagline: '2025'
         subtitle: This is the item subtitle
         text: |
