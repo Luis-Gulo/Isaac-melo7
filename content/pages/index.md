@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Aqui vão alguns momentos dele
     items:
       - title: Feature Item One
         tagline: This is the tagline
