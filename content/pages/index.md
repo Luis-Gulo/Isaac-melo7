@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
     subtitle: Aqui vão alguns momentos de isaac melo
     items:
-      - title: Feature Item One
+      - title: Tic Tac e um remedio
         tagline: '2025'
         subtitle: This is the item subtitle
         text: |
