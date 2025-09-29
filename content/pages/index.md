@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Bem-Vindo ha Historia
+      text: 'Isaac Melo :)'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
