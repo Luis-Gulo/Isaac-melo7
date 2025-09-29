@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
     subtitle: Aqui vão alguns momentos de isaac melo
     items:
-      - title: Tic Tac e um remedio
+      - title: Tic Tac e um remedio?
         tagline: '2025'
         subtitle: >-
           Isaac Melo esta a fingir que a caixa de tic tac e a caixa de remedios
