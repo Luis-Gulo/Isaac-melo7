@@ -24,7 +24,7 @@
     "secondaryLinks": [
         {
             "label": "JUST DEVELOPERS",
-            "altText": "Sign up",
+            "altText": "JUST DEVELOPERS",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
