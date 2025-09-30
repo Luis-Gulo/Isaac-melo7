@@ -90,7 +90,8 @@ sections:
         subtitle: Abaixo vou imitar a letra dele.
         text: >
           مرحبًا، اسمي رايزن، أحب السخرية من إسحاق وأكره ماركو من صفي، ذلك الابن
-          اللعين.
+          اللعين.مرحبًا، اسمي رايزن، أحب السخرية من إسحاق وأكره ماركو من صفي،
+          ذلك الابن اللعين.
         image:
           url: /images/WhatsApp Image 2025-09-29 at 21.31.22.jpeg
           altText: Placeholder image
