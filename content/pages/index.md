@@ -88,8 +88,9 @@ sections:
       - title: Isaac Melo tem uma letra " Maravilhosa
         tagline: '2025'
         subtitle: Abaixo vou imitar a letra dele.
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          مرحبًا، اسمي رايزن، أحب السخرية من إسحاق وأكره ماركو من صفي، ذلك الابن
+          اللعين.
         image:
           url: /images/WhatsApp Image 2025-09-29 at 21.31.22.jpeg
           altText: Placeholder image
