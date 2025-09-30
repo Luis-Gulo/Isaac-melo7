@@ -23,6 +23,15 @@
     ],
     "secondaryLinks": [
         {
+            "label": "JUST DEVELOPERS",
+            "altText": "Sign up",
+            "url": "https://app.netlify.com/signup",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Button"
+        },
+        {
             "label": "Log in",
             "url": "/",
             "icon": "arrowRight",
