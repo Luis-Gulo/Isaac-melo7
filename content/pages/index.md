@@ -7,7 +7,7 @@ sections:
       text: Isaac Melo
       color: text-dark
       type: TitleBlock
-    subtitle: O Adolescente com 15 anos que não sabe firtar um ovo.
+    subtitle: O Adolescente com 13 anos que não sabe amarrar um Sapato.
     text: >+
       Este site foi criado inteiramente como uma piada interna, por isso nada do
       que aqui estiver deve ser levado a sério.
