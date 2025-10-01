@@ -3,9 +3,8 @@ title: Harry Pobre kkj
 slug: five-tips-for-starting-a-startup
 date: ''
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  O nosso Harry POBRE tem um setup gamer mais.... E o Reboco da parede?, E o
+  açucar que ta em falta?, E a agua que cortaram?.
 featuredImage:
   url: /images/90ca8baa38e66f7ba905db74f4794cf04df0466c_hq.jpg
   altText: Thumbnail
