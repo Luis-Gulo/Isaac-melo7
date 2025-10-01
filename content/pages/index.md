@@ -110,7 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Alimetação 100€ saudavel
         tagline: ''
         subtitle: This is the item subtitle
         text: >
