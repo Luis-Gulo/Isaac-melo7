@@ -5,10 +5,7 @@ title: >-
   Bisexual
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: ''
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: 'Bom, eu siceramente respeito a desição mais tem outras pessoas que não....'
 featuredImage:
   url: /images/transferir (1).png
   altText: Thumbnail
