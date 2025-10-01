@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: How to Write a Blog Post That Will Get You More Traffic
+title: 'Bom, Caso não saibas o individo a qal foi me pedido a criação deste site e B'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
