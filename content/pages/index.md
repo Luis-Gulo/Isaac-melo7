@@ -112,7 +112,7 @@ sections:
         type: FeaturedItem
       - title: Alimetação 100% saudavel
         tagline: '2025'
-        subtitle: This is the item subtitle
+        subtitle: 'Bom, sera precisso mesmo de dizer alguma coisa?'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
