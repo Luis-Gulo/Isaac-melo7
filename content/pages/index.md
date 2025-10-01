@@ -110,7 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Alimetação 100€ sauda
+      - title: Alimetação 100% saudavel
         tagline: '2025'
         subtitle: This is the item subtitle
         text: >
