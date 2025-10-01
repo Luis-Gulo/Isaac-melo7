@@ -111,7 +111,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: ''
-        tagline: ''
+        tagline: Alimetação 100€ saudavel
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
