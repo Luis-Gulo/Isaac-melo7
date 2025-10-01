@@ -149,7 +149,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Bi ou Bicha?
       color: text-dark
       styles:
         self:
