@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: 'Bom, Caso não saibas o individo a qal foi me pedido a criação deste site e B'
+title: >-
+  Bom, Caso não saibas o individo a qal foi me pedido a criação deste site e
+  Bisexual
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
