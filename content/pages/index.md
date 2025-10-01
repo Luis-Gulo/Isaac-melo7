@@ -113,9 +113,8 @@ sections:
       - title: Alimetação 100% saudavel
         tagline: '2025'
         subtitle: 'Bom, sera precisso mesmo de dizer alguma coisa?'
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          O Retardado esta simplismente a ENFIAR 30 PEDRAS DO RIM DE UMA VEZ.
         image:
           url: /images/WhatsApp Image 2025-09-30 at 22.31.10.jpeg
           altText: Placeholder image
