@@ -3,11 +3,7 @@ type: PostLayout
 title: What is a Design System
 slug: what-is-a-design-system
 date: '2023-02-14'
-excerpt: >-
-  A Design System is a comprehensive set of standards, principles, and tools
-  that guide the design and development of a product or service. It provides a
-  unified framework to ensure consistency, efficiency, and scalability across a
-  product's user interface (UI) and user experience (UX).
+excerpt: ''
 featuredImage:
   url: /images/Capture d’écran 2024-04-09 à 11.33.56.png
   altText: Thumbnail
