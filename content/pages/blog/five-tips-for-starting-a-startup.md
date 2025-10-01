@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: Harry Pobre kkj
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
