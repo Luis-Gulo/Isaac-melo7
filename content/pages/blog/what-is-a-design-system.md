@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: >-
-  Ocoreu um erro Inesperado. Clique AQUI e depois clique novamente na pagina que
-  abrir.
+  Ocorreu um erro inesperado. Clique aqui e depois clique novamente na página
+  que abrir.
 slug: what-is-a-design-system
 date: ''
 excerpt: ''
