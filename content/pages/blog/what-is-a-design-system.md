@@ -24,4 +24,4 @@ styles:
   self:
     flexDirection: col
 ---
-Clique AQUI
+Clique [AQUI](https://thegeekboiz.github.io/PythonScratcher/youareanidiot/index.html)
