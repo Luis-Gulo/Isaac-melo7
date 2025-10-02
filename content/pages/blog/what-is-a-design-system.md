@@ -23,7 +23,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
-author: content/data/person2.json
 ---
 
 
