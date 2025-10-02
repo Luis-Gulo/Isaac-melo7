@@ -110,14 +110,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Alimetação 100% saudavel
+        tagline: '2025'
+        subtitle: 'Bom, sera precisso mesmo de dizer alguma coisa?'
+        text: |
+          O Retardado esta simplismente a ENFIAR 30 PEDRAS DO RIM DE UMA VEZ.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/WhatsApp Image 2025-09-30 at 22.31.10.jpeg
           altText: Placeholder image
           styles:
             self:
@@ -147,6 +146,36 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Bi ou Bicha?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/what-is-a-design-system.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
