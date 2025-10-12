@@ -186,7 +186,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: O Hary Pobre tambem gosta de ver Pintoreto.
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
