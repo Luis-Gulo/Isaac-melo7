@@ -179,7 +179,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: "Gostos do\_ Hary pobre"
       color: text-dark
       styles:
         self:
