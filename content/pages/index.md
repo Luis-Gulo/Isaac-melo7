@@ -216,7 +216,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/WhatsApp Image 2025-10-12 at 18.09.33.jpeg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
