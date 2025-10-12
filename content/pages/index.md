@@ -213,7 +213,9 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ROBILOQUIS
-        subtitle: $ 44.99 – $ 90
+        subtitle: >-
+          O Hary Pobre gosta de jogar ROBILOQUIS sozinho ou com amigos, elejoga
+          evade e tem 43984394893 horas jogadas em Avatar Creator
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-10-12 at 18.09.33.jpeg
