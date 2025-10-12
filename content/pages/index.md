@@ -176,6 +176,83 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: "Gostos do\_ Hary pobre"
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: O Hary Pobre tambem gosta de ver Pintoreto.
+        subtitle: >-
+          Ver pintoreto e uma das atividades favoritas do hary Pobre, alem de
+          assistir youtobe e Assistir animes.
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2025-10-12 at 17.55.42.jpeg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: ROBILOQUIS
+        subtitle: >-
+          O Hary Pobre gosta de jogar ROBILOQUIS sozinho ou com amigos, elejoga
+          evade e tem 43984394893 horas jogadas em Avatar Creator
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2025-10-12 at 18.09.33.jpeg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Chunky Cotton Knit Throw
+        subtitle: $117
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
