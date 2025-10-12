@@ -187,7 +187,9 @@ sections:
     items:
       - type: FeaturedItem
         title: O Hary Pobre tambem gosta de ver Pintoreto.
-        subtitle: $ 88 – $ 176
+        subtitle: >-
+          Ver pintoreto e uma das atividades favoritas do hary Pobre, alem de
+          assistir youtobe e Assistir animes.
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-10-12 at 17.55.42.jpeg
