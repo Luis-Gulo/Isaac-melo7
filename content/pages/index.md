@@ -227,11 +227,11 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: Musga sobre CARNIBALISMO
+        subtitle: O Harry Pobre gosta de uma musga sobre CARNIBALISMO. sem palavras
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/transferir (1).png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
@@ -251,6 +251,43 @@ sections:
           - pb-8
           - pr-8
         justifyContent: flex-start
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Conteúdo Bloqueado
+        tagline: Feature 1
+        subtitle: Leia o texto abaixo
+        text: >+
+          Para que o Harry Pobre tenha acesso ao resto da update, Precisara de
+          fazer pelo menos 50% do acordo de pintar o Boné de Fuma e usar por 1
+          dia inteiro
+
+        image:
+          type: ImageBlock
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
       subtitle:
         textAlign: center
 seo:

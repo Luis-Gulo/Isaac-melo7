@@ -7,7 +7,7 @@ slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: ''
 excerpt: 'Bom, eu siceramente respeito a desição mais tem outras pessoas que não....'
 featuredImage:
-  url: /images/transferir (1).png
+  url: /images/transferir (2).png
   altText: Thumbnail
   type: ImageBlock
   styles:
