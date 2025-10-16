@@ -228,7 +228,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Musga sobre CARNIBALISMO
-        subtitle: O Harry Pobre gosta de uma musgga sobre CARNIBALISMO. sem palavras
+        subtitle: O Harry Pobre gosta de uma musga sobre CARNIBALISMO. sem palavras
         image:
           type: ImageBlock
           url: /images/transferir (1).png
