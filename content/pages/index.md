@@ -256,7 +256,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Conteudo Bloqueado
+        title: Conteúdo Bloqueado
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
