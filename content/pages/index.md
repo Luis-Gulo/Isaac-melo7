@@ -259,10 +259,11 @@ sections:
         title: Conteúdo Bloqueado
         tagline: Feature 1
         subtitle: Leia o texto abaixo
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Para que o Harry Pobre tenha acesso ao resto da update, Precisara de
+          fazer pelo menos 50% do acordo de pintar o Boné de Fuma e usar por 1
+          dia inteiro
+
         image:
           type: ImageBlock
           altText: Featured item
